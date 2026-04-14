@@ -1,5 +1,3 @@
-## Live Demo
-https://workingatheightquiz.netlify.app/
 
 ## Working at Height Safety Game (WSH)
 
@@ -12,3 +10,6 @@ Built as a microlearning tool, the experience takes approximately 3–5 minutes 
 - A scoring system to reinforce safe behaviour  
 
 The game is designed for working professionals and can be used as part of workplace safety campaigns, onboarding programmes, or digital LMS modules.
+
+## Live Demo
+https://workingatheightquiz.netlify.app/

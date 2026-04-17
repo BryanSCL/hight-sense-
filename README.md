@@ -12,4 +12,4 @@ Built as a microlearning tool, the experience takes approximately 3–5 minutes 
 The game is designed for working professionals and can be used as part of workplace safety campaigns, onboarding programmes, or digital LMS modules.
 
 ## Live Demo
-https://heightsense.netlify.app/
+https://heightsenses.netlify.app/
